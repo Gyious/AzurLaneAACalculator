@@ -1,5 +1,9 @@
 import copy
-# ship stats I need: Ship reload, ship reload bonus, num guns, slot efficiency per gun, AA stat, AA damage bonus
+'''
+A lot of things in this file are unused, but potentially useful.
+A few things might be unoptimal or not used/usable (didnt update them) - but there should be few things like this
+'''
+
 
 class Ship:
     def __init__(self, name, reload, aaStat, slotEff, aaSkil, relSkil):
