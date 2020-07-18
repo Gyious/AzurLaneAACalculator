@@ -1,6 +1,7 @@
 # AzurLaneAACalculator
 Some code that calculates what AA guns go on what ships to optimize AA DPS.  Requires [Python 3.8](https://www.python.org/downloads/).
-All files must be in the same directory.
+
+**All** files must be in the same directory.
 
 ## Usage
 Note: As of now, the GUI is non-functional, I am (slowly) working on making a google sheets for it instead (but that involves adapting python -> javascript)
